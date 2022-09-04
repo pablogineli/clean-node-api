@@ -1,8 +1,8 @@
 export default {
   clearMocks: true,
-  collectCoverage: true,
-  collectCoverageFrom: ['<rootDir>/src/**/*.ts'],
-  coverageDirectory: "coverage",
+  //collectCoverage: false,
+  //collectCoverageFrom: ['<rootDir>/src/**/*.ts'],
+  //coverageDirectory: "coverage",
 
   // An array of regexp pattern strings used to skip coverage collection
   // coveragePathIgnorePatterns: [
